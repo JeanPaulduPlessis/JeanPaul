@@ -1,1 +1,6 @@
-
+(kicad_pro (version 20211014) (generator "KiCad 6.0+")
+(project
+    (name "ColdRoomAlert")
+    (page "A4")
+    (title_block))
+)
